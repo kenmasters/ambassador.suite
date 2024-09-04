@@ -1,0 +1,3 @@
+[submodule "ambassador.email-service"]
+	path = ambassador.email-service
+	url = git@github.com:kenmasters/ambassador.email-service.git
